@@ -5,4 +5,5 @@ include_directories(.)
 ######
 
 add_subdirectory(examples/schema)
+add_subdirectory(examples/image)
 
